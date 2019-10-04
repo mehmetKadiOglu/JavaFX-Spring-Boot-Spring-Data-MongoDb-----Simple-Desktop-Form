@@ -1,9 +1,9 @@
-package com.STATE.StateGroup.KayitBtnState;
+package com.State.StateGroup.KayitBtnState;
 
-import com.STATE.StateGroup.StateAbst.SaveFromState;
-import com.singleton.HBoxSingle;
-import com.STATE.Handle.AbstractFormHandle;
-import com.dd.Main;
+import com.State.StateGroup.StateAbst.SaveFromState;
+import com.Singleton.HBoxSingle;
+import com.State.Handle.AbstractFormHandle;
+import com.Main.Main;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

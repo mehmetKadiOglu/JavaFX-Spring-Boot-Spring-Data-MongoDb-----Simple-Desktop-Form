@@ -1,7 +1,7 @@
-package com.STATE.StateGroup.StateAbst;
+package com.State.StateGroup.StateAbst;
 
-import com.STATE.Handle.AbstractFormHandle;
-import com.dd.Main;
+import com.State.Handle.AbstractFormHandle;
+import com.Main.Main;
 
 public abstract class FormState {
    abstract public void Handle(AbstractFormHandle abstractFormHandle);

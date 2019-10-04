@@ -1,14 +1,14 @@
 package com.Facade;
 
 import com.POJO.MemberPOJO;
-import com.STATE.Handle.SaveBtnHandle;
-import com.STATE.Handle.UpdateBtnHandle;
-import com.STATE.StateGroup.KayitBtnState.MemberSaveFormShow;
-import com.STATE.Handle.DeleteBtnHandle;
-import com.STATE.StateGroup.DeleteBtnState.MemberDeleteFormShow;
-import com.STATE.StateGroup.UpdateBtnState.MemberUpdateFormShow;
-import com.singleton.ListViewSingle;
-import com.singleton.MemberListSingle;
+import com.State.Handle.SaveBtnHandle;
+import com.State.Handle.UpdateBtnHandle;
+import com.State.StateGroup.KayitBtnState.MemberSaveFormShow;
+import com.State.Handle.DeleteBtnHandle;
+import com.State.StateGroup.DeleteBtnState.MemberDeleteFormShow;
+import com.State.StateGroup.UpdateBtnState.MemberUpdateFormShow;
+import com.Singleton.ListViewSingle;
+import com.Singleton.MemberListSingle;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

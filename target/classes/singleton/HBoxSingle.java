@@ -1,6 +1,5 @@
-package com.singleton;
+package com.Singleton;
 
-import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.singleton;
+package com.Singleton;
 
 import javafx.scene.control.ListView;
 import org.springframework.beans.factory.annotation.Autowired;

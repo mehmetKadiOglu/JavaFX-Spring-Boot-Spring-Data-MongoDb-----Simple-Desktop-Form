@@ -1,4 +1,4 @@
-package com.singleton;
+package com.Singleton;
 
 import com.POJO.MemberPOJO;
 import org.springframework.beans.factory.annotation.Autowired;

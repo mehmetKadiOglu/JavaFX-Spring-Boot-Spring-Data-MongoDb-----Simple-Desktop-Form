@@ -2,9 +2,9 @@ package com.Factory.Update;
 
 import com.Facade.FxmlSetTextFacade;
 import com.POJO.MemberPOJO;
-import com.singleton.ListViewSingle;
-import com.singleton.MemberListSingle;
-import com.singleton.TextFieldSingle;
+import com.Singleton.ListViewSingle;
+import com.Singleton.MemberListSingle;
+import com.Singleton.TextFieldSingle;
 import org.springframework.stereotype.Component;
 
 @Component("memberListUpdateMember")

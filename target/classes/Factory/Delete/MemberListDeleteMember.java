@@ -1,10 +1,10 @@
 package com.Factory.Delete;
 
 import com.Facade.FxmlSetTextFacade;
-import com.singleton.ListViewSingle;
-import com.singleton.MemberListSingle;
+import com.Singleton.ListViewSingle;
+import com.Singleton.MemberListSingle;
 import com.POJO.MemberPOJO;
-import com.singleton.WillDeletedMemberListSingle;
+import com.Singleton.WillDeletedMemberListSingle;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

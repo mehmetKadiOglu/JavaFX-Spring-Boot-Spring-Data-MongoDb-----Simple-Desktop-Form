@@ -1,8 +1,7 @@
-package com.STATE.StateGroup.StateAbst;
+package com.State.StateGroup.StateAbst;
 
-import com.singleton.HBoxSingle;
-import com.singleton.HBoxVisible;
-import javafx.application.Platform;
+import com.Singleton.HBoxSingle;
+import com.Singleton.HBoxVisible;
 
 public abstract class DeleteFormState extends FormState {
 

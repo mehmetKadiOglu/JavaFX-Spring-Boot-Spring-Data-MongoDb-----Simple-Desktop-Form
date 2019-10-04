@@ -1,6 +1,5 @@
-package com.dd;
+package com.Main;
 
-import com.singleton.HBoxSingle;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

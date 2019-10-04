@@ -1,8 +1,8 @@
-package com.STATE.StateGroup.UpdateBtnState;
+package com.State.StateGroup.UpdateBtnState;
 
-import com.STATE.Handle.AbstractFormHandle;
-import com.STATE.StateGroup.StateAbst.UpdateFormState;
-import com.singleton.HBoxSingle;
+import com.State.Handle.AbstractFormHandle;
+import com.State.StateGroup.StateAbst.UpdateFormState;
+import com.Singleton.HBoxSingle;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
