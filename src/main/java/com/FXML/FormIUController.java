@@ -4,7 +4,7 @@ import com.Facade.FxmlSetTextFacade;
 import com.Facade.SaveDeleteFactoryFacade;
 import com.POJO.*;
 import com.Facade.FormActionFacade;
-import com.singleton.*;
+import com.Singleton.*;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -16,8 +16,6 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.HBox;
 
 import java.net.URL;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.ResourceBundle;
 
 public class FormIUController implements Initializable {

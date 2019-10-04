@@ -1,9 +1,9 @@
 package com.Factory.Save;
 
-import com.singleton.ListViewSingle;
-import com.singleton.MemberListSingle;
+import com.Singleton.ListViewSingle;
+import com.Singleton.MemberListSingle;
 import com.POJO.MemberPOJO;
-import com.singleton.TextFieldSingle;
+import com.Singleton.TextFieldSingle;
 import org.springframework.stereotype.Component;
 
 @Component("memberListSaveNewMember")

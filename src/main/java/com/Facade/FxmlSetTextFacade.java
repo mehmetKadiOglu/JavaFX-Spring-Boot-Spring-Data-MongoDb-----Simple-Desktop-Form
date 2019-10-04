@@ -1,8 +1,8 @@
 package com.Facade;
 
-import com.singleton.LabelSingle;
+import com.Singleton.LabelSingle;
 import com.POJO.MemberPOJO;
-import com.singleton.TextFieldSingle;
+import com.Singleton.TextFieldSingle;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
